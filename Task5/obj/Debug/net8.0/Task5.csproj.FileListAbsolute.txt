@@ -1,0 +1,15 @@
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\bin\Debug\net8.0\Task5.exe
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\bin\Debug\net8.0\Task5.deps.json
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\bin\Debug\net8.0\Task5.runtimeconfig.json
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\bin\Debug\net8.0\Task5.dll
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\bin\Debug\net8.0\Task5.pdb
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\Task5.sourcelink.json
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\Task5.dll
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\refint\Task5.dll
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\Task5.pdb
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\Task5.genruntimeconfig.cache
+C:\Документы\GeekBains\знакомство со специализацией\знакомство с язвками програмирования\01_CSHARP\Lesson1\Task5\obj\Debug\net8.0\ref\Task5.dll
