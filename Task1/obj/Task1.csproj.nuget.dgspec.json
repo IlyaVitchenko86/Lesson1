@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\Lesson1\\Task1\\Task1.csproj": {}
+    "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\01_CSHARP\\Lesson1\\task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\Lesson1\\Task1\\Task1.csproj": {
+    "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\01_CSHARP\\Lesson1\\task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\Lesson1\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\01_CSHARP\\Lesson1\\task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\Lesson1\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\01_CSHARP\\Lesson1\\task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\sardor.sayfullaev\\.nuget\\packages\\",
-        "outputPath": "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\Lesson1\\Task1\\obj\\",
+        "outputPath": "C:\\Документы\\GeekBains\\знакомство со специализацией\\знакомство с язвками програмирования\\01_CSHARP\\Lesson1\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sardor.sayfullaev\\AppData\\Roaming\\NuGet\\NuGet.Config"
